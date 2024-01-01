@@ -1,3 +1,3 @@
 ### Olá 👋
 
-Sou um estudante de Ciência da Computação com grande interesse em design e fascínio por tecnologias da Web.
+Sou um estudante de Ciência da Computação com grande interesse em design e tecnologias da Web.
