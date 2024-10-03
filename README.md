@@ -1,1 +1,1 @@
-Danilo is a Computer Science student passionate about design and web technologies. Currently, he is involved in several projects that showcase his interest in exploring different areas of computing and design.
+👋
