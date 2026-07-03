@@ -1,5 +1,5 @@
-Danilo de Sousa is from Viçosa do Ceará, BR, but his work has no fixed address. He has developed projects for clients in Brazil, Italy, and the United States, always working remotely.
-
-A designer and Web developer with a degree in Computer Science, he creates brands, interfaces, and websites with the same level of attention to both concept and execution. His work combines visual expertise and technical thinking to build clear, consistent, and well-crafted experiences.
-
-Recent work includes projects for Nutrilite, Ibiag Ingredients, and clients in Italy served through a partnership with an international agency. He currently also works as a scholarship researcher at Fiocruz Ceará.
+Sou de Viçosa do Ceará, mas meu trabalho não tem endereço fixo. Formado em Ciência da Computação, eu uno design e desenvolvimento para criar marcas, interfaces e sites com a mesma atenção ao conceito e à execução.
+ 
+Hoje, divido minha atuação entre duas frentes: sou professor de Desenvolvimento de Sistemas no Centec (programa EMI) e presto serviços autônomos de design de produto (UX/UI) e de desenvolvimento web para clientes no Brasil e no exterior.
+ 
+Entre os trabalhos recentes estão projetos para Nutrilite, Ibiag Ingredients e clientes atendidos em parceria com agências internacionais. Anteriormente, fui bolsista de pesquisa na Fiocruz Ceará, onde desenvolvi o front-end e o design de interface do sistema QualitySaúde.
